@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <nav className="bg-[#FEFEFE] shadow-sm sticky top-0 z-50">
-      <div className="navbar container mx-auto">
+      <div className="navbar container mx-auto px-12 lg:px-25">
         <div className="navbar-start">
           <div className="dropdown">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
