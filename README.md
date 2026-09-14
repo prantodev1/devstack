@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sage-muffin-662ce1.netlify.app/">
+  <a href="https://dynamic-caramel-75130b.netlify.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Website-6366F1?style=for-the-badge" alt="Live Demo">
   </a>
   <a href="https://github.com/prantodev1/devstack">
